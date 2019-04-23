@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Arturo is now learning GitHub
